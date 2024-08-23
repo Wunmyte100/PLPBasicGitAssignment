@@ -1,2 +1,2 @@
-Hello, Git!
-You are welcome
+Hello world!
+It's nice been on the plp training
